@@ -1,0 +1,297 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{HKM{\etalchar{+}}20}
+
+\bibitem[ACG{\etalchar{+}}15]{AhnCormodeGuhaMcGregorWirth2015}
+KookJin Ahn, Graham Cormode, Sudipto Guha, Andrew McGregor, and Anthony Wirth.
+\newblock Correlation clustering in data streams.
+\newblock In {\em Proceedings of the 32nd International Conference on Machine
+  Learning}, volume~37 of {\em Proceedings of Machine Learning Research}, pages
+  2237--2246. PMLR, 2015.
+
+\bibitem[AGM12]{AGM2012}
+Kook~Jin Ahn, Sudipto Guha, and Andrew McGregor.
+\newblock Analyzing graph structure via linear measurements.
+\newblock In {\em Proceedings of the Twenty-Third Annual ACM-SIAM Symposium on
+  Discrete Algorithms}, pages 459--467, 2012.
+
+\bibitem[AKSS01]{AleshnikovKumarShumStichtenoth2001Splitting}
+Ilia Aleshnikov, P.~Vijay Kumar, Kenneth~W. Shum, and Henning Stichtenoth.
+\newblock On the splitting of places in a tower of function fields meeting the
+  {Drinfeld--Vladut} bound.
+\newblock {\em IEEE Transactions on Information Theory}, 47(4):1613--1619,
+  2001.
+
+\bibitem[AS22]{AssadiShah2022Matching}
+Sepehr Assadi and Vihan Shah.
+\newblock An asymptotically optimal algorithm for maximum matching in dynamic
+  streams.
+\newblock In {\em 13th Innovations in Theoretical Computer Science Conference
+  (ITCS 2022)}, volume 215 of {\em Leibniz International Proceedings in
+  Informatics (LIPIcs)}, pages 9:1--9:23. Schloss Dagstuhl -- Leibniz-Zentrum
+  f{\"u}r Informatik, 2022.
+\newblock Full version: arXiv:2201.12710v1; Section 3.2 and Section 5.2.
+
+\bibitem[BDN17]{BlasiokDingNelson2017Monitoring}
+Jaros{\l}aw B{\l}asiok, Jian Ding, and Jelani Nelson.
+\newblock Continuous monitoring of {$\ell_p$} norms in data streams.
+\newblock In {\em Approximation, Randomization, and Combinatorial Optimization.
+  Algorithms and Techniques (APPROX/RANDOM 2017)}, volume~81 of {\em Leibniz
+  International Proceedings in Informatics (LIPIcs)}, pages 32:1--32:13.
+  Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik, 2017.
+
+\bibitem[Ber84]{Berkowitz84}
+Stuart~J. Berkowitz.
+\newblock On computing the determinant in small parallel time using a small
+  number of processors.
+\newblock {\em Information Processing Letters}, 18(3):147--150, 1984.
+
+\bibitem[B{\l}a18]{Blasiok2018}
+Jaros{\l}aw B{\l}asiok.
+\newblock Optimal streaming and tracking distinct elements with high
+  probability.
+\newblock In {\em Proceedings of the Twenty-Ninth Annual ACM-SIAM Symposium on
+  Discrete Algorithms}, pages 2432--2448, 2018.
+\newblock Full version arXiv:1804.01642v2, 2019.
+
+\bibitem[BP14]{BP14}
+St{\'e}phane Ballet and Julia Pieltant.
+\newblock Tower of algebraic function fields with maximal {Hasse--Witt}
+  invariant and tensor rank of multiplication in any extension of
+  $\mathbb{F}_2$ and $\mathbb{F}_3$, 2014.
+\newblock arXiv:1409.3440v1.
+
+\bibitem[CF14]{CF14}
+Graham Cormode and Donatella Firmani.
+\newblock A unifying framework for {$\ell_0$}-sampling algorithms.
+\newblock {\em Distributed and Parallel Databases}, 32(3):315--335, 2014.
+
+\bibitem[CFG{\etalchar{+}}78]{Carter78}
+Larry~J. Carter, Robert~W. Floyd, John Gill, George Markowsky, and Mark~N.
+  Wegman.
+\newblock Exact and approximate membership testers.
+\newblock In {\em Proceedings of the 10th Annual ACM Symposium on Theory of
+  Computing (STOC 1978)}, pages 59--65. ACM, 1978.
+
+\bibitem[CL21]{ChengLi2021Asymmetric}
+Kuan Cheng and Xin Li.
+\newblock Efficient document exchange and error correcting codes with
+  asymmetric information.
+\newblock In {\em Proceedings of the 2021 ACM-SIAM Symposium on Discrete
+  Algorithms (SODA)}, pages 2424--2443. Society for Industrial and Applied
+  Mathematics, 2021.
+\newblock Full version: arXiv:2007.00870v3.
+
+\bibitem[DGB{\etalchar{+}}26]{DeManGillBenderDhulipalaTench2026}
+Quinten {De Man}, Gilvir Gill, Michael~A. Bender, Laxman Dhulipala, and David
+  Tench.
+\newblock Hybrid sketching methods for dynamic connectivity on sparse graphs,
+  2026.
+\newblock arXiv:2605.15173v2, October 7, 2026.
+
+\bibitem[DK94]{DuursmaKotter94}
+Iwan~M. Duursma and Ralf K{\"o}tter.
+\newblock Error-locating pairs for cyclic codes.
+\newblock {\em IEEE Transactions on Information Theory}, 40(4):1108--1121,
+  1994.
+
+\bibitem[DP08]{DP08}
+Martin Dietzfelbinger and Rasmus Pagh.
+\newblock Succinct data structures for retrieval and approximate membership.
+\newblock In {\em Automata, Languages and Programming (ICALP 2008)}, volume
+  5125 of {\em Lecture Notes in Computer Science}, pages 385--396. Springer,
+  2008.
+
+\bibitem[DSBN15]{DasarathyEtAl2015Tensor}
+Gautam Dasarathy, Parikshit Shah, Badri~Narayan Bhaskar, and Robert~D. Nowak.
+\newblock Sketching sparse matrices, covariances, and graphs via tensor
+  products.
+\newblock {\em IEEE Transactions on Information Theory}, 61(3):1373--1388,
+  2015.
+\newblock Earlier preprint: \url{https://arxiv.org/abs/1303.6544v1}.
+
+\bibitem[EG11]{EppsteinGoodrich11}
+David Eppstein and Michael~T. Goodrich.
+\newblock Straggler identification in round-trip data streams via {Newton's}
+  identities and invertible {Bloom} filters.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  23(2):297--306, 2011.
+\newblock arXiv: \url{https://arxiv.org/abs/0704.3313v3}.
+
+\bibitem[GJM25]{GilboaJainMcClean2025}
+Dar Gilboa, Siddhartha Jain, and Jarrod~R. McClean.
+\newblock Consumable data via quantum communication.
+\newblock In {\em Approximation, Randomization, and Combinatorial Optimization.
+  Algorithms and Techniques (APPROX/RANDOM 2025)}, volume 353 of {\em Leibniz
+  International Proceedings in Informatics}, pages 39:1--39:23. Schloss
+  Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik, 2025.
+
+\bibitem[GKKT15]{GibbKapronKingThorn2015}
+David Gibb, Bruce Kapron, Valerie King, and Nolan Thorn.
+\newblock Dynamic graph connectivity with improved worst case update time and
+  sublinear space, 2015.
+\newblock arXiv:1509.06464v1.
+
+\bibitem[GM11]{GoodrichMitzenmacher2011IBLT}
+Michael~T. Goodrich and Michael Mitzenmacher.
+\newblock Invertible bloom lookup tables.
+\newblock In {\em 49th Annual Allerton Conference on Communication, Control,
+  and Computing}, pages 792--799, 2011.
+
+\bibitem[GR69]{GowerRoss1969}
+J.~C. Gower and G.~J.~S. Ross.
+\newblock Minimum spanning trees and single linkage cluster analysis.
+\newblock {\em Journal of the Royal Statistical Society. Series C (Applied
+  Statistics)}, 18(1):54--64, 1969.
+
+\bibitem[GS96]{GarciaStichtenoth1996Reciprocal}
+Arnaldo Garcia and Henning Stichtenoth.
+\newblock On the asymptotic behaviour of some towers of function fields over
+  finite fields.
+\newblock {\em Journal of Number Theory}, 61(2):248--273, 1996.
+
+\bibitem[GS07]{GarciaStichtenoth2007ExplicitTowers}
+Arnaldo Garcia and Henning Stichtenoth.
+\newblock Explicit towers of function fields over finite fields.
+\newblock In Arnaldo Garcia and Henning Stichtenoth, editors, {\em Topics in
+  Geometry, Coding Theory and Cryptography}, volume~6 of {\em Algebra and
+  Applications}, pages 1--58. Springer, Dordrecht, 2007.
+
+\bibitem[HJ25]{HeJoseph2025Hierarchical}
+Yanbin He and Geethu Joseph.
+\newblock A hierarchical view of structured sparsity in {Kronecker} compressive
+  sensing.
+\newblock In {\em Proceedings of the 2025 33rd European Signal Processing
+  Conference (EUSIPCO)}, pages 2482--2486. IEEE, 2025.
+
+\bibitem[HJMR10]{HJMR2010}
+Prahladh Harsha, Rahul Jain, David McAllester, and Jaikumar Radhakrishnan.
+\newblock The communication complexity of correlation.
+\newblock {\em IEEE Transactions on Information Theory}, 56(1):438--449, 2010.
+
+\bibitem[HKM{\etalchar{+}}20]{HassidimEtAl2020Robust}
+Avinatan Hassidim, Haim Kaplan, Yishay Mansour, Yossi Matias, and Uri Stemmer.
+\newblock Adversarially robust streaming algorithms via differential privacy.
+\newblock In {\em Advances in Neural Information Processing Systems},
+  volume~33, 2020.
+
+\bibitem[IEWM25]{IzumiEmekWadayamaMasuzawa2025}
+Taisuke Izumi, Yuval Emek, Tadashi Wadayama, and Toshimitsu Masuzawa.
+\newblock Deterministic fault-tolerant connectivity labeling scheme.
+\newblock {\em Distributed Computing}, 38:31--50, 2025.
+
+\bibitem[JKMV24]{JinKapralovMahabadiVakilian2024}
+Ce~Jin, Michael Kapralov, Sepideh Mahabadi, and Ali Vakilian.
+\newblock Streaming algorithms for connectivity augmentation, 2024.
+\newblock arXiv:2402.10806v1.
+
+\bibitem[JW18]{JayaramWoodruff2018}
+Rajesh Jayaram and David~P. Woodruff.
+\newblock Data streams with bounded deletions, 2018.
+\newblock PODS 2018; full version arXiv:1803.08777.
+  \url{https://arxiv.org/abs/1803.08777}.
+
+\bibitem[KKD25]{KKD2025}
+Sanjeev Khanna, Christian Konrad, and Jacques Dark.
+\newblock Streaming maximal matching with bounded deletions.
+\newblock In {\em 52nd International Colloquium on Automata, Languages, and
+  Programming (ICALP 2025)}, volume 334 of {\em Leibniz International
+  Proceedings in Informatics}, pages 106:1--106:20. Schloss Dagstuhl --
+  Leibniz-Zentrum f{\"u}r Informatik, 2025.
+
+\bibitem[KKP26]{KhannaKonradPutterman2026}
+Sanjeev Khanna, Christian Konrad, and Aaron Putterman.
+\newblock Fault-tolerant distance oracles below the $n \cdot f$ barrier, 2026.
+\newblock arXiv:2603.24530v1.
+
+\bibitem[KNP{\etalchar{+}}17]{KNPWWY2017}
+Michael Kapralov, Jelani Nelson, Jakub Pachocki, Zhengyu Wang, David~P.
+  Woodruff, and Mobin Yahyazadeh.
+\newblock Optimal lower bounds for universal relation, and for samplers and
+  finding duplicates in streams.
+\newblock In {\em 58th Annual IEEE Symposium on Foundations of Computer
+  Science}, pages 475--486. IEEE, 2017.
+\newblock \url{https://arxiv.org/abs/1704.00633}. DOI: 10.1109/FOCS.2017.50.
+
+\bibitem[KP20]{KP20}
+John Kallaugher and Eric Price.
+\newblock Separations and equivalences between turnstile streaming and linear
+  sketching.
+\newblock In {\em Proceedings of the 52nd Annual ACM SIGACT Symposium on Theory
+  of Computing}, 2020.
+
+\bibitem[KPS25]{KPS2025}
+Sanjeev Khanna, Aaron Putterman, and Madhu Sudan.
+\newblock Near-optimal hypergraph sparsification in {Insertion-Only} and
+  {Bounded-Deletion} streams.
+\newblock In {\em ICALP}, volume 334 of {\em LIPIcs}, pages 108:1--108:11,
+  2025.
+\newblock Full version: arXiv:2504.16321v1.
+
+\bibitem[KW14]{KapralovWoodruff2014}
+Michael Kapralov and David~P. Woodruff.
+\newblock Spanners and sparsifiers in dynamic streams.
+\newblock In {\em Proceedings of the 2014 ACM Symposium on Principles of
+  Distributed Computing}, pages 272--281. ACM, 2014.
+
+\bibitem[MAR16]{MamunAseltineRajasekaran2016}
+Abdullah-Al Mamun, Robert Aseltine, and Sanguthevar Rajasekaran.
+\newblock Efficient record linkage algorithms using complete linkage
+  clustering.
+\newblock {\em {PLOS ONE}}, 11(4):e0154446, 2016.
+
+\bibitem[NI92]{NagamochiIbaraki1992}
+Hiroshi Nagamochi and Toshihide Ibaraki.
+\newblock A linear-time algorithm for finding a sparse {$k$}-connected spanning
+  subgraph of a {$k$}-connected graph.
+\newblock {\em Algorithmica}, 7:583--596, 1992.
+
+\bibitem[NY19]{NelsonYu2019}
+Jelani Nelson and Huacheng Yu.
+\newblock Optimal lower bounds for distributed and streaming spanning forest
+  computation.
+\newblock In {\em Proceedings of the Thirtieth Annual ACM-SIAM Symposium on
+  Discrete Algorithms (SODA 2019)}, pages 1844--1860. Society for Industrial
+  and Applied Mathematics, 2019.
+\newblock Corrected full version: arXiv:1807.05135v3 (2019).
+
+\bibitem[Pel92]{Pellikaan92}
+Ruud Pellikaan.
+\newblock On decoding by error location and dependent sets of error positions.
+\newblock {\em Discrete Mathematics}, 106--107:369--381, 1992.
+
+\bibitem[PST98]{PellikaanStichtenothTorres1998Semigroups}
+Ruud Pellikaan, Henning Stichtenoth, and Fernando Torres.
+\newblock Weierstrass semigroups in an asymptotically good tower of function
+  fields.
+\newblock {\em Finite Fields and Their Applications}, 4(4):381--392, 1998.
+
+\bibitem[PVZ26]{PuttermanVadhanZaripov2026}
+Aaron Putterman, Salil Vadhan, and Vadim Zaripov.
+\newblock Bounded-independence sampling of edges for combinatorial graph
+  properties.
+\newblock In {\em 41st Computational Complexity Conference (CCC 2026)}, volume
+  383 of {\em Leibniz International Proceedings in Informatics (LIPIcs)}, 2026.
+
+\bibitem[SY26]{SawettamalyaYu2026}
+Pachara Sawettamalya and Huacheng Yu.
+\newblock A (very) nearly optimal sketch for {$k$}-edge connectivity
+  certificates.
+\newblock In {\em 2026 SIAM Symposium on Simplicity in Algorithms (SOSA)},
+  pages 229--240. SIAM, 2026.
+
+\bibitem[TWZ{\etalchar{+}}25]{TenchEtAl2025Landscape}
+David Tench, Evan~T. West, Kenny Zhang, Michael~A. Bender, Daniel DeLayo,
+  Mart{\'i}n Farach-Colton, Gilvir Gill, Tyler Seip, and Victor Zhang.
+\newblock Exploring the {Landscape} of distributed graph sketching.
+\newblock In {\em 2025 Proceedings of the Symposium on Algorithm Engineering
+  and Experiments (ALENEX)}, pages 133--146. Society for Industrial and Applied
+  Mathematics, 2025.
+\newblock Full version: arXiv:2410.07518v2.
+
+\bibitem[Vor26]{Voronova2026Replenishment}
+Nadezhda Voronova.
+\newblock Random order in quantum streaming: Replenishment and robust lower
+  bounds, 2026.
+\newblock arXiv:2610.06727v1.
+
+\end{thebibliography}

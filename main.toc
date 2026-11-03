@@ -1,0 +1,83 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.2}%
+\contentsline {subsection}{\numberline {1.1}Prior algorithms, space lower bounds, and the unresolved reliability threshold}{1}{subsection.3}%
+\contentsline {subsection}{\numberline {1.2}Space-optimal algorithms at every confidence level}{2}{subsection.4}%
+\contentsline {subsection}{\numberline {1.3}Optimal space under a report-time deletion promise}{3}{subsection.8}%
+\contentsline {paragraph}{The zero-error endpoint.}{4}{section*.14}%
+\contentsline {paragraph}{Limits of current-graph linear sketches.}{5}{section*.20}%
+\contentsline {subsection}{\numberline {1.4}Extension to jointly correct reports}{6}{subsection.24}%
+\contentsline {subsection}{\numberline {1.5}Model conventions and organization}{7}{subsection.28}%
+\contentsline {section}{\numberline {2}Technical Overview: Algorithm Design and Matching Space Lower Bounds}{8}{section.29}%
+\contentsline {subsection}{\numberline {2.1}Reducing row width, levels, and banks together}{8}{subsection.30}%
+\contentsline {subsection}{\numberline {2.2}Algorithm design: vertex-domain recovery and shorter schedules}{8}{subsection.31}%
+\contentsline {paragraph}{Recovering a cut through its vertices.}{8}{section*.32}%
+\contentsline {paragraph}{Shortening the schedule.}{9}{section*.34}%
+\contentsline {paragraph}{Verifying recovered cuts.}{9}{section*.35}%
+\contentsline {paragraph}{Balancing the threshold.}{9}{section*.36}%
+\contentsline {subsection}{\numberline {2.3}Matching space lower bounds for arbitrary algorithms}{9}{subsection.37}%
+\contentsline {subsection}{\numberline {2.4}Historical-deficit algorithms and matching space lower bounds}{10}{subsection.38}%
+\contentsline {paragraph}{Limits of current-graph linear sketches.}{11}{section*.41}%
+\contentsline {subsection}{\numberline {2.5}Matching lower bounds for jointly correct reports}{11}{subsection.42}%
+\contentsline {section}{\numberline {3}An Optimal-Space Algorithm and Matching Lower Bound without Deletion Promises}{12}{section.43}%
+\contentsline {subsection}{\numberline {3.1}Cut recovery and verification in the algorithm}{12}{subsection.44}%
+\contentsline {paragraph}{The binary-code interface.}{12}{section*.45}%
+\contentsline {paragraph}{Independent verification.}{13}{section*.48}%
+\contentsline {subsection}{\numberline {3.2}A graph algorithm with fewer levels and rounds}{14}{subsection.51}%
+\contentsline {paragraph}{Algorithm outline.}{14}{section*.52}%
+\contentsline {paragraph}{Memory accounting.}{16}{section*.61}%
+\contentsline {subsection}{\numberline {3.3}The optimized algorithm and its retained linear state}{17}{subsection.63}%
+\contentsline {paragraph}{Choosing the recovery threshold.}{17}{section*.66}%
+\contentsline {paragraph}{The persistent binary map.}{18}{section*.69}%
+\contentsline {subsection}{\numberline {3.4}Encoding a source under pointwise error}{19}{subsection.78}%
+\contentsline {paragraph}{Encoding argument.}{20}{section*.81}%
+\contentsline {subsection}{\numberline {3.5}The full-confidence spanning-forest space lower bound}{20}{subsection.82}%
+\contentsline {section}{\numberline {4}Optimal Spanning-Forest Space under a Historical-Deficit Bound}{23}{section.92}%
+\contentsline {subsection}{\numberline {4.1}Maintaining historical connectivity in compressed space}{23}{subsection.94}%
+\contentsline {subsection}{\numberline {4.2}A space-optimal deterministic spanning-forest algorithm}{25}{subsection.100}%
+\contentsline {subsection}{\numberline {4.3}A recovery algorithm using the report-time deficit}{26}{subsection.106}%
+\contentsline {paragraph}{Selecting an algorithm for each parameter range.}{28}{section*.111}%
+\contentsline {subsection}{\numberline {4.4}Constant-error lower bounds under a total deletion bound}{29}{subsection.117}%
+\contentsline {paragraph}{Relation to prior lower bounds.}{32}{section*.130}%
+\contentsline {paragraph}{Tight dependence on the deficit bound.}{33}{section*.133}%
+\contentsline {subsection}{\numberline {4.5}Confidence lower bounds under a total deletion bound}{33}{subsection.134}%
+\contentsline {subsection}{\numberline {4.6}Space-optimal algorithms at every deficit bound and confidence}{35}{subsection.142}%
+\contentsline {subsection}{\numberline {4.7}The optimal space in different regimes and its saturation threshold}{36}{subsection.146}%
+\contentsline {paragraph}{Tight space at near-linear confidence exponents.}{37}{section*.151}%
+\contentsline {section}{\numberline {5}Joint Correctness over Multiple Reports}{37}{section.153}%
+\contentsline {subsection}{\numberline {5.1}Optimal joint recovery and a fixed query distribution}{38}{subsection.154}%
+\contentsline {subsection}{\numberline {5.2}A lower bound allowing learning between reports}{39}{subsection.159}%
+\contentsline {subsection}{\numberline {5.3}Joint space optimality and its saturation point}{41}{subsection.167}%
+\contentsline {paragraph}{Saturation and repeated queries.}{42}{section*.170}%
+\contentsline {section}{\numberline {6}Limitations of Retained Linear Sketches under a Historical-Deficit Bound}{43}{section.171}%
+\contentsline {subsection}{\numberline {6.1}The retained-state model}{43}{subsection.172}%
+\contentsline {subsection}{\numberline {6.2}A matching class-specific lower bound and the resulting space gap}{43}{subsection.173}%
+\contentsline {section}{\numberline {A}Graph-Stream Conventions and Finite Simulation}{45}{appendix.175}%
+\contentsline {subsection}{\numberline {A.1}Finite-family simulation}{45}{subsection.176}%
+\contentsline {section}{\numberline {B}Auxiliary Probability and Information Arguments}{46}{appendix.178}%
+\contentsline {subsection}{\numberline {B.1}Sampling estimates for cut recovery}{46}{subsection.179}%
+\contentsline {subsection}{\numberline {B.2}Pointwise source encoding}{47}{subsection.183}%
+\contentsline {subsection}{\numberline {B.3}External-information accounting for the coordinate reduction}{48}{subsection.187}%
+\contentsline {subsection}{\numberline {B.4}Source-cardinality accounting in the information lower bound}{50}{subsection.193}%
+\contentsline {subsection}{\numberline {B.5}The insertion-only baseline}{52}{subsection.199}%
+\contentsline {subsection}{\numberline {B.6}Positive error at the zero-error space order}{53}{subsection.201}%
+\contentsline {subsection}{\numberline {B.7}Uniform source regimes for the confidence lower bound}{54}{subsection.206}%
+\contentsline {subsection}{\numberline {B.8}The finite distributional query law}{54}{subsection.207}%
+\contentsline {section}{\numberline {C}Construction and Memory Guarantees for Binary Codes and Verification Fields}{55}{appendix.209}%
+\contentsline {subsection}{\numberline {C.1}An entropy-sized binary codec with bounded total workspace}{55}{subsection.210}%
+\contentsline {subsection}{\numberline {C.2}Streamed linear algebra and Riemann--Roch construction}{58}{subsection.226}%
+\contentsline {subsubsection}{\numberline {C.2.1}A streamed Riemann--Roch constructor}{60}{subsubsection.228}%
+\contentsline {subsection}{\numberline {C.3}Constructing the binary verification field with polynomial work on every tape}{64}{subsection.244}%
+\contentsline {section}{\numberline {D}Implementation of Historical Edge Storage and Parameter Headers}{66}{appendix.247}%
+\contentsline {subsection}{\numberline {D.1}Compressed storage of historical edge names and live bits}{66}{subsection.248}%
+\contentsline {subsection}{\numberline {D.2}Polynomial operations on compressed historical edge storage}{66}{subsection.249}%
+\contentsline {subsection}{\numberline {D.3}Parameter selection and header capping}{67}{subsection.250}%
+\contentsline {subsection}{\numberline {D.4}Finite headers and rounded report confidence}{67}{subsection.251}%
+\contentsline {subsection}{\numberline {D.5}Finite-search alternatives for recovery, verification, and cut tests}{67}{subsection.252}%
+\contentsline {paragraph}{Finite search for the recovery code.}{68}{section*.253}%
+\contentsline {paragraph}{Finite search for the verification field.}{68}{section*.256}%
+\contentsline {paragraph}{Finite-search cut tests and running-time bounds.}{68}{section*.257}%
+\contentsline {section}{\numberline {E}Detailed Comparison with Prior Work}{69}{appendix.258}%
+\contentsline {paragraph}{Extending the fully dynamic confidence frontier.}{69}{section*.259}%
+\contentsline {paragraph}{Vertex-domain recovery and total working memory.}{69}{section*.260}%
+\contentsline {paragraph}{Optimal spanning-forest space under a report-time deletion promise.}{70}{section*.261}%
+\contentsline {paragraph}{Source encoding for space lower bounds.}{70}{section*.262}%
+\contentsline {paragraph}{Joint correctness and lower bounds for repeated reports.}{70}{section*.263}%
